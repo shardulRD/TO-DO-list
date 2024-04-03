@@ -1,0 +1,1 @@
+created a To Do list web application using HTML , CSS &  Javascript . There are some special functions given to this project as if whenever you close the live server and come back again you will see your previous tasks present there.
